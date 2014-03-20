@@ -1,0 +1,23 @@
+{
+  "name": "gulp-batman-templates",
+  "description": "Turn HTML files into JS code to preload batman.js templates",
+  "version": "0.0.1",
+  "homepage": "http://github.com/rmosolgo/gulp-batman-templates",
+  "repository": "git://github.com/rmosolgo/gulp-batman-templates.git",
+  "author": "Robert Mosolgo <rmosolgo@gmail.com>",
+  "main": "./index.js",
+  "keywords": [
+    "gulpplugin", "batmanjs", "templates"
+  ],
+  "dependencies": {
+    "event-stream": "~3.0.20"
+  },
+  "engines": {
+    "node": ">= 0.9.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
